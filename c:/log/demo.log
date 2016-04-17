@@ -1,0 +1,487 @@
+23:26:23,041  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@581d0462: startup date [Thu Apr 14 23:26:23 ICT 2016]; root of context hierarchy
+23:29:19,079  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@799318fa: startup date [Thu Apr 14 23:29:19 ICT 2016]; root of context hierarchy
+23:30:12,718  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@284d0371: startup date [Thu Apr 14 23:30:12 ICT 2016]; root of context hierarchy
+23:30:13,725  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:33:47,107  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@799318fa: startup date [Thu Apr 14 23:33:47 ICT 2016]; root of context hierarchy
+23:33:48,106  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:36:20,520  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@71fdf17c: startup date [Thu Apr 14 23:36:20 ICT 2016]; root of context hierarchy
+23:36:21,594  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:39:28,813  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Thu Apr 14 23:39:28 ICT 2016]; root of context hierarchy
+23:39:30,153  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:39:30,624  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:39:30,663  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:39:30,681  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:39:30,684  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:39:32,296  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:39:32,338  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:39:32,698  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:39:32,743  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:39:33,483  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:39:33,484  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:39:33,507  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:39:33,544  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEETEST
+23:39:33,549  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEETEST
+23:39:33,551  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEETEST
+23:39:34,221  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:39:34,415  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@4b4f309d] of Hibernate SessionFactory for HibernateTransactionManager
+23:43:54,157  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Thu Apr 14 23:43:54 ICT 2016]; root of context hierarchy
+23:43:55,181  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:43:55,631  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:43:55,669  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:43:55,688  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:43:55,692  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:43:56,967  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:43:57,010  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:43:57,404  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:43:57,449  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:43:58,189  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:43:58,190  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:43:58,211  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:43:58,424  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEETEST
+23:43:58,425  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+23:43:58,425  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:43:58,426  INFO TableMetadata:70 - HHH000126: Indexes: [primary, uk_2nan22vc9uc0nfbvn5plxhgh7]
+23:43:58,427  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:43:58,573  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@faeb9d8] of Hibernate SessionFactory for HibernateTransactionManager
+23:47:47,329  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Thu Apr 14 23:47:47 ICT 2016]; root of context hierarchy
+23:47:48,246  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:47:48,530  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:47:48,539  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:47:48,542  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:47:48,544  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:47:49,313  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:47:49,337  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:47:49,572  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:47:49,581  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:47:49,972  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:47:49,973  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:47:49,993  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:47:50,070  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEETEST
+23:47:50,070  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+23:47:50,071  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:47:50,071  INFO TableMetadata:70 - HHH000126: Indexes: [primary, uk_2nan22vc9uc0nfbvn5plxhgh7]
+23:47:50,072  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:47:50,227  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@56b0287a] of Hibernate SessionFactory for HibernateTransactionManager
+23:49:28,614  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2eff6313: startup date [Thu Apr 14 23:49:28 ICT 2016]; root of context hierarchy
+23:49:29,318  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:49:29,594  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:49:29,611  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:49:29,614  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:49:29,617  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:49:30,481  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:49:30,494  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:49:30,703  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:49:30,711  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:49:31,107  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:49:31,108  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:49:31,129  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:49:31,222  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEETEST
+23:49:31,223  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+23:49:31,224  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:49:31,224  INFO TableMetadata:70 - HHH000126: Indexes: [primary, uk_2nan22vc9uc0nfbvn5plxhgh7]
+23:49:31,226  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:49:31,373  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@207aafde] of Hibernate SessionFactory for HibernateTransactionManager
+23:52:11,442  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@500b73e5: startup date [Thu Apr 14 23:52:11 ICT 2016]; root of context hierarchy
+23:52:11,742  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:52:11,744  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:52:11,746  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:52:12,212  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:52:12,530  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:52:12,539  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:52:12,542  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:52:12,545  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:52:13,322  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:52:13,335  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:52:13,515  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:52:13,521  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:52:13,892  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:52:13,893  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:52:13,925  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:52:14,025  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEETEST
+23:52:14,025  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+23:52:14,026  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:52:14,026  INFO TableMetadata:70 - HHH000126: Indexes: [primary, uk_2nan22vc9uc0nfbvn5plxhgh7]
+23:52:14,028  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:52:14,133  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@45402f87] of Hibernate SessionFactory for HibernateTransactionManager
+23:53:36,196  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c18c80: startup date [Thu Apr 14 23:53:36 ICT 2016]; root of context hierarchy
+23:53:36,561  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:53:36,563  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:53:36,565  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:53:37,145  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:53:37,434  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:53:37,447  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:53:37,451  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:53:37,468  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:53:38,378  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:53:38,392  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:53:38,572  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:53:38,579  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:53:39,069  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:53:39,070  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:53:39,099  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:53:39,193  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEETEST
+23:53:39,194  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+23:53:39,195  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:53:39,195  INFO TableMetadata:70 - HHH000126: Indexes: [primary, uk_2nan22vc9uc0nfbvn5plxhgh7]
+23:53:39,197  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:53:39,307  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@212b805c] of Hibernate SessionFactory for HibernateTransactionManager
+23:56:32,911  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Thu Apr 14 23:56:32 ICT 2016]; root of context hierarchy
+23:56:33,338  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:56:33,340  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:56:33,342  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:56:33,969  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:56:34,248  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:56:34,261  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:56:34,264  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:56:34,267  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:56:35,118  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:56:35,132  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:56:35,330  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:56:35,339  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:56:35,746  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:56:35,747  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:56:35,785  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:56:35,858  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEETEST
+23:56:35,859  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+23:56:35,860  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:56:35,861  INFO TableMetadata:70 - HHH000126: Indexes: [primary, uk_2nan22vc9uc0nfbvn5plxhgh7]
+23:56:35,862  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:56:36,030  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@212b805c] of Hibernate SessionFactory for HibernateTransactionManager
+23:58:16,201  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@500b73e5: startup date [Thu Apr 14 23:58:16 ICT 2016]; root of context hierarchy
+23:58:16,508  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:58:16,510  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:58:16,512  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:58:16,975  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:58:17,240  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:58:17,249  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:58:17,252  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:58:17,255  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:58:18,092  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:58:18,105  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:58:18,314  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:58:18,322  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:58:18,696  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:58:18,697  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:58:18,728  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:58:18,814  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEETEST
+23:58:18,815  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+23:58:18,816  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:58:18,817  INFO TableMetadata:70 - HHH000126: Indexes: [primary, uk_2nan22vc9uc0nfbvn5plxhgh7]
+23:58:18,818  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:58:18,947  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@7027413a] of Hibernate SessionFactory for HibernateTransactionManager
+23:58:57,658  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Thu Apr 14 23:58:57 ICT 2016]; root of context hierarchy
+23:58:57,912  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:58:57,913  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:58:57,915  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+23:58:58,435  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+23:58:58,679  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+23:58:58,689  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+23:58:58,692  INFO Environment:239 - HHH000206: hibernate.properties not found
+23:58:58,695  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+23:58:59,547  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:58:59,560  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+23:58:59,753  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:58:59,761  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+23:59:00,204  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+23:59:00,205  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+23:59:00,237  INFO SchemaUpdate:205 - HHH000396: Updating schema
+23:59:00,343  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+23:59:00,344  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+23:59:00,344  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+23:59:00,345  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+23:59:00,346  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+23:59:00,458  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@212b805c] of Hibernate SessionFactory for HibernateTransactionManager
+00:02:00,255  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Fri Apr 15 00:02:00 ICT 2016]; root of context hierarchy
+00:02:00,552  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:02:00,554  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:02:00,577  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:02:01,100  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+00:02:01,377  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+00:02:01,387  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+00:02:01,390  INFO Environment:239 - HHH000206: hibernate.properties not found
+00:02:01,393  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+00:02:02,140  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:02:02,152  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+00:02:02,359  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+00:02:02,366  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+00:02:02,772  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+00:02:02,772  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+00:02:02,807  INFO SchemaUpdate:205 - HHH000396: Updating schema
+00:02:02,888  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+00:02:02,889  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+00:02:02,889  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+00:02:02,890  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+00:02:02,892  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+00:02:03,012  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@264da2a8] of Hibernate SessionFactory for HibernateTransactionManager
+00:04:37,959  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c18c80: startup date [Fri Apr 15 00:04:37 ICT 2016]; root of context hierarchy
+00:04:38,367  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:04:38,369  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:04:38,392  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:04:39,346  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+00:04:39,595  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+00:04:39,603  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+00:04:39,606  INFO Environment:239 - HHH000206: hibernate.properties not found
+00:04:39,608  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+00:04:40,346  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:04:40,358  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+00:04:40,552  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+00:04:40,561  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+00:04:40,980  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+00:04:40,981  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+00:04:41,012  INFO SchemaUpdate:205 - HHH000396: Updating schema
+00:04:41,017  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+00:04:41,021  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+00:04:41,022  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+00:04:41,286  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+00:04:41,417  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@682af542] of Hibernate SessionFactory for HibernateTransactionManager
+00:05:56,990  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Fri Apr 15 00:05:56 ICT 2016]; root of context hierarchy
+00:05:57,439  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:05:57,441  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:05:57,465  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+00:05:58,097  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+00:05:58,351  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+00:05:58,359  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+00:05:58,362  INFO Environment:239 - HHH000206: hibernate.properties not found
+00:05:58,364  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+00:05:59,099  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:05:59,112  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+00:05:59,341  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+00:05:59,348  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+00:05:59,727  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+00:05:59,728  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+00:05:59,748  INFO SchemaUpdate:205 - HHH000396: Updating schema
+00:05:59,773  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+00:05:59,774  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+00:05:59,774  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+00:05:59,775  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+00:05:59,776  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+00:05:59,922  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@403d1c18] of Hibernate SessionFactory for HibernateTransactionManager
+09:50:25,049  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2eff6313: startup date [Fri Apr 15 09:50:24 ICT 2016]; root of context hierarchy
+09:50:26,283  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:50:26,285  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:50:26,287  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:50:27,209  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+09:50:27,813  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+09:50:27,839  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+09:50:27,845  INFO Environment:239 - HHH000206: hibernate.properties not found
+09:50:27,848  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+09:50:29,617  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:50:29,658  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:50:30,075  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+09:50:30,165  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:50:31,171  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+09:50:31,172  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+09:50:31,195  INFO SchemaUpdate:205 - HHH000396: Updating schema
+09:50:31,328  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+09:50:31,329  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+09:50:31,330  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+09:50:31,330  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+09:50:31,332  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+09:50:31,526  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@49c4b127] of Hibernate SessionFactory for HibernateTransactionManager
+09:55:50,916  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2eff6313: startup date [Fri Apr 15 09:55:50 ICT 2016]; root of context hierarchy
+09:55:51,687  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:55:51,689  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:55:51,691  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:55:53,230  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+09:55:54,120  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+09:55:54,168  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+09:55:54,173  INFO Environment:239 - HHH000206: hibernate.properties not found
+09:55:54,176  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+09:55:55,871  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:55:55,989  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:55:56,692  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+09:55:56,750  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:55:58,000  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+09:55:58,020  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+09:55:58,047  INFO SchemaUpdate:205 - HHH000396: Updating schema
+09:55:58,179  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+09:55:58,180  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+09:55:58,181  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+09:55:58,181  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+09:55:58,183  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+09:55:58,388  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@4036d9c5] of Hibernate SessionFactory for HibernateTransactionManager
+09:59:31,105  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2eff6313: startup date [Fri Apr 15 09:59:31 ICT 2016]; root of context hierarchy
+09:59:31,588  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:59:31,591  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:59:31,592  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+09:59:32,299  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+09:59:32,749  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+09:59:32,777  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+09:59:32,796  INFO Environment:239 - HHH000206: hibernate.properties not found
+09:59:32,799  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+09:59:33,998  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+09:59:34,041  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+09:59:34,345  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+09:59:34,380  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+09:59:35,064  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+09:59:35,064  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+09:59:35,086  INFO SchemaUpdate:205 - HHH000396: Updating schema
+09:59:35,199  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+09:59:35,200  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+09:59:35,201  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+09:59:35,202  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+09:59:35,204  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+09:59:35,373  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@6a78a54f] of Hibernate SessionFactory for HibernateTransactionManager
+10:00:42,707  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c18c80: startup date [Fri Apr 15 10:00:42 ICT 2016]; root of context hierarchy
+10:00:43,085  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:00:43,086  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:00:43,088  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:00:43,567  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+10:00:43,870  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+10:00:43,881  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+10:00:43,884  INFO Environment:239 - HHH000206: hibernate.properties not found
+10:00:43,887  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+10:00:44,837  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:00:44,850  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:00:45,063  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+10:00:45,070  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+10:00:45,475  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+10:00:45,476  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+10:00:45,497  INFO SchemaUpdate:205 - HHH000396: Updating schema
+10:00:45,586  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+10:00:45,587  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+10:00:45,618  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+10:00:45,619  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+10:00:45,620  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+10:00:45,744  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@7e44258] of Hibernate SessionFactory for HibernateTransactionManager
+10:03:03,123  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1fe5e871: startup date [Fri Apr 15 10:03:03 ICT 2016]; root of context hierarchy
+10:03:03,685  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:03:03,688  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:03:03,689  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:03:04,643  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+10:03:05,058  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+10:03:05,085  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+10:03:05,104  INFO Environment:239 - HHH000206: hibernate.properties not found
+10:03:05,109  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+10:03:06,241  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:03:06,259  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:03:06,554  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+10:03:06,588  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+10:03:07,261  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+10:03:07,275  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+10:03:07,298  INFO SchemaUpdate:205 - HHH000396: Updating schema
+10:03:07,395  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+10:03:07,396  INFO TableMetadata:67 - HHH000037: Columns: [id, joining_date, name, ssn, salary]
+10:03:07,397  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+10:03:07,397  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+10:03:07,399  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+10:03:07,601  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@67477051] of Hibernate SessionFactory for HibernateTransactionManager
+10:05:39,330  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c18c80: startup date [Fri Apr 15 10:05:39 ICT 2016]; root of context hierarchy
+10:05:39,886  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:05:39,888  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:05:39,890  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:06:59,994  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2eff6313: startup date [Fri Apr 15 10:06:59 ICT 2016]; root of context hierarchy
+10:07:00,413  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:07:00,442  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:07:00,444  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:07:01,018  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+10:07:01,412  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+10:07:01,451  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+10:07:01,470  INFO Environment:239 - HHH000206: hibernate.properties not found
+10:07:01,476  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+10:07:02,662  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:07:02,680  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:07:02,977  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+10:07:03,009  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+10:07:03,682  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+10:07:03,683  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+10:07:03,704  INFO SchemaUpdate:205 - HHH000396: Updating schema
+10:07:03,713  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:07:03,740  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:07:03,742  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:07:04,205  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+10:07:04,467  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@68ac8a06] of Hibernate SessionFactory for HibernateTransactionManager
+10:08:33,718  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c18c80: startup date [Fri Apr 15 10:08:33 ICT 2016]; root of context hierarchy
+10:08:34,186  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:08:34,188  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:08:34,190  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:08:34,739  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+10:08:35,058  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+10:08:35,067  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+10:08:35,070  INFO Environment:239 - HHH000206: hibernate.properties not found
+10:08:35,072  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+10:08:35,838  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:08:35,850  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:08:36,168  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+10:08:36,177  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+10:08:36,580  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+10:08:36,581  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+10:08:36,603  INFO SchemaUpdate:205 - HHH000396: Updating schema
+10:08:36,613  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:08:36,617  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:08:36,619  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:08:36,989  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+10:08:37,112  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@3964379e] of Hibernate SessionFactory for HibernateTransactionManager
+10:08:38,044  INFO AnnotationConfigApplicationContext:873 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@c18c80: startup date [Fri Apr 15 10:08:33 ICT 2016]; root of context hierarchy
+10:09:59,518  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2eff6313: startup date [Fri Apr 15 10:09:59 ICT 2016]; root of context hierarchy
+10:09:59,849  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:09:59,850  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:09:59,852  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:11:34,475  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@c18c80: startup date [Fri Apr 15 10:11:34 ICT 2016]; root of context hierarchy
+10:11:35,072  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:11:35,073  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:11:35,089  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:11:35,832  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+10:11:36,326  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+10:11:36,353  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+10:11:36,371  INFO Environment:239 - HHH000206: hibernate.properties not found
+10:11:36,375  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+10:11:37,463  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:11:37,550  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:11:38,177  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+10:11:38,222  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+10:11:38,918  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+10:11:38,919  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+10:11:38,958  INFO SchemaUpdate:205 - HHH000396: Updating schema
+10:11:39,074  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+10:11:39,076  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+10:11:39,076  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+10:11:39,077  INFO TableMetadata:70 - HHH000126: Indexes: [uk_p136ambt19xg166m0jf37p7wn, primary]
+10:11:39,079  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+10:11:39,292  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@7523cde5] of Hibernate SessionFactory for HibernateTransactionManager
+10:11:39,644  WARN SqlExceptionHelper:144 - SQL Error: 1062, SQLState: 23000
+10:11:39,645 ERROR SqlExceptionHelper:146 - Duplicate entry 'ssn00000001' for key 'UK_p136ambt19xg166m0jf37p7wn'
+10:12:34,057  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@22ef27e3: startup date [Fri Apr 15 10:12:34 ICT 2016]; root of context hierarchy
+10:12:34,347  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:12:34,349  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:12:34,351  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:12:34,849  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+10:12:35,086  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+10:12:35,097  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+10:12:35,100  INFO Environment:239 - HHH000206: hibernate.properties not found
+10:12:35,103  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+10:12:35,852  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:12:35,864  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:12:36,114  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+10:12:36,121  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+10:12:36,516  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+10:12:36,516  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+10:12:36,537  INFO SchemaUpdate:205 - HHH000396: Updating schema
+10:12:36,542  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:12:36,546  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:12:36,547  INFO DatabaseMetaData:147 - HHH000262: Table not found: EMPLOYEE
+10:12:36,651  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+10:12:36,766  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@7523cde5] of Hibernate SessionFactory for HibernateTransactionManager
+10:13:09,542  INFO AnnotationConfigApplicationContext:513 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@22ef27e3: startup date [Fri Apr 15 10:13:09 ICT 2016]; root of context hierarchy
+10:13:09,910  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'sessionFactory': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=sessionFactory; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:13:09,912  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'dataSource': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=dataSource; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:13:09,914  INFO DefaultListableBeanFactory:749 - Overriding bean definition for bean 'transactionManager': replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb2; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [com/webapp/spring/configuration/HibernateConfigurationDb2.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=hibernateConfigurationDb1; factoryMethodName=transactionManager; initMethodName=null; destroyMethodName=(inferred); defined in class com.webapp.spring.configuration.HibernateConfigurationDb1]
+10:13:10,663  INFO DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+10:13:10,937  INFO Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+10:13:10,946  INFO Version:54 - HHH000412: Hibernate Core {4.3.6.Final}
+10:13:10,949  INFO Environment:239 - HHH000206: hibernate.properties not found
+10:13:10,960  INFO Environment:346 - HHH000021: Bytecode provider name : javassist
+10:13:11,780  INFO Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+10:13:11,819  INFO LobCreatorBuilder:97 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+10:13:12,069  INFO TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+10:13:12,078  INFO ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+10:13:12,627  INFO SchemaUpdate:182 - HHH000228: Running hbm2ddl schema update
+10:13:12,629  INFO SchemaUpdate:193 - HHH000102: Fetching database metadata
+10:13:12,660  INFO SchemaUpdate:205 - HHH000396: Updating schema
+10:13:12,744  INFO TableMetadata:66 - HHH000261: Table found: websystique.EMPLOYEE
+10:13:12,745  INFO TableMetadata:67 - HHH000037: Columns: [id, name, ssn, salary]
+10:13:12,746  INFO TableMetadata:69 - HHH000108: Foreign keys: []
+10:13:12,747  INFO TableMetadata:70 - HHH000126: Indexes: [primary]
+10:13:12,748  INFO SchemaUpdate:242 - HHH000232: Schema update complete
+10:13:12,897  INFO HibernateTransactionManager:339 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@1a2b178] of Hibernate SessionFactory for HibernateTransactionManager
+10:13:13,733  INFO AnnotationConfigApplicationContext:873 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@22ef27e3: startup date [Fri Apr 15 10:13:09 ICT 2016]; root of context hierarchy
